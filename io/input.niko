@@ -1,1 +1,8 @@
-iii(num);
+seisuu num = 10;
+
+hyouji(num);
+
+hyouji("Somando + 1");
+num = num + 1;
+
+hyouji(num);
